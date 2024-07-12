@@ -1,4 +1,4 @@
-# Markdown Generator
+# README Generator
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
@@ -6,9 +6,9 @@
 
 A simple command-line tool that will help you quickly create a professional readme.
 
-## Demo Video
+## Demo
 
-<video src="https://github.com/colepatters/uofm-fsw-challenge-9/raw/main/demo.webm" controls></video>
+![image](https://github.com/colepatters/uofm-fsw-challenge-9/blob/main/demo.gif?raw=true)
 
 ## Installation
 
